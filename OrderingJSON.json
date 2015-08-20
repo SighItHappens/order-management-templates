@@ -1,0 +1,52 @@
+{
+  "lineofbuisness": "ves|vzw|cmb",
+  "customerdetails": {
+    "customertype": "new|registered",
+    "fname": "suresh",
+    "lname": "siddharth",
+    "connectionaddress": {
+      "streetname": "10, mg road",
+      "zipcode": 560102,
+      "city": "bangalore",
+      "state": "karnataka",
+      "country": "india"
+    },
+    "billingaddress": {
+      "streetname": "10, mg road",
+      "zipcode": 560102,
+      "city": "bangalore",
+      "state": "karnataka",
+      "country": "india"
+    },
+    "email": "suresh.siddharth@gmail.com",
+    "contactnumber":"9500689870",
+    "dateofbirth": "24-mar-1993"
+    
+  },
+  "orderdetails": { 
+    "dateofbooking": "18-aug-2015",
+    "duedate": "25-aug-2015",
+    "services": [ {
+      "servicecode": "ves1523",
+      "servicename": "pip",
+    }
+    ],
+    "products": [ {
+      "productcode": "ves123",		//The code of a product from PCat
+      "productname": "instrument",	//Name of the Product
+      "productid": 123465789,		//Unique ID assigned to the particular product by provisioning. Only VZW will use this.
+      "quantity": {			//For CMB and Wireless, Max and Current will be the same.
+	"max":100,
+	"current":50
+      }
+    }
+    ]
+  }
+  "contractdetails":{			//For VES only, CMB and VZW will set this to null.
+    "modeltype":"transactional|rtb",
+    "classofservice":"platinum|gold|silver|bronze|normal",
+    "fromdate": "18-aug-2015",
+    "todate":"18-aug-2016",
+    "discountpercentage":10
+  }
+}
