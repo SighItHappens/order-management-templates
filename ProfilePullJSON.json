@@ -42,7 +42,7 @@
       }
     }
     ]
-  }
+  },
   "orderhistory":[{
     "orderid": "O/6728",
     "dateoforder": "30-JUN-2014",
@@ -64,8 +64,7 @@
     }
     ]
   }
-  ]
-    
+  ],
   "contractdetails":[{
     "contractid": "C/2345",
     "modeltype":"transactional|rtb",
