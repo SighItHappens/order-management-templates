@@ -1,0 +1,9 @@
+FORMATS
+
+Customer ID - Alphanumeric
+Order ID - Alphanumeric
+Date Format - DD-MON-YYYY
+Product/Service ID - 
+Order Status - new|outProvisioning|inProvisioning|complete|cancelled
+Bill Cycle - number of months between bills.
+Customer Class - platinum|gold|silver|bronze (for VES only)
