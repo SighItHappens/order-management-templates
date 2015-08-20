@@ -21,16 +21,6 @@
       "servicecode": "ves1523",
       "servicename": "pip",
     }
-    ],
-    "products": [ {
-      "productcode": "ves123",	
-      "productname": "instrument",	
-      "productid": 123465789,	
-      "quantity": {			
-	        "max":100,
-	        "current":50
-      }
-    }
     ]
   }
 }
