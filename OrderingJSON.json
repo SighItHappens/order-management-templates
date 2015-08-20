@@ -28,7 +28,6 @@
     "services": [ {
       "servicecode": "ves1523",
       "servicename": "pip",
-      "mdn": "",
       "quantity": {
 	"max":100,
 	"current":50
