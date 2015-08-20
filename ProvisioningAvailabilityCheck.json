@@ -1,18 +1,4 @@
 {
-    "checkid": 123,
     "zipcode": 650125,
     "duedate": "25-aug-2015",
-    "services": [
-        {
-            "serviceid": "ves1523",
-            "servicename": "pip"
-        }
-    ],
-    "products": [
-        {
-            "productcode": "ves123",
-            "productname": "instrument",
-            "productid": 5045
-        }
-    ]
 }
