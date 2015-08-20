@@ -2,7 +2,7 @@
   "lineofbusiness": "ves|vzw|cmb",
   "customerdetails": {
     "customerid": "VZ/1234",
-    "customername": "Suresh Siddharth"
+    "customername": "Suresh Siddharth",
     "customertype": "new|registered",
     "connectionaddress": {
       "streetname": "10, mg road",
