@@ -29,7 +29,8 @@
     "services": [ {
       "servicecode": "ves1523",
       "servicename": "pip",
-      "serviceid": 3456789
+      "serviceid": 3456789,
+      "servicedate": "14-APR-2000"
     }
     ],
     "products": [ {
