@@ -2,6 +2,7 @@
   "lineofbusiness": "ves|vzw|cmb",
   "customerdetails": {
     "customertype": "new|registered",
+    "customerid": "1234567",
     "fname": "suresh",
     "lname": "siddharth",
     "connectionaddress": {
