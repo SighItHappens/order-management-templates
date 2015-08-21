@@ -1,7 +1,7 @@
 {
   "lineofbusiness": "ves|vzw|cmb",
   "customerdetails": {
-    "customerid": "VZ/1234",
+    "customerid": "1234567",
     "customername": "Suresh Siddharth",
     "customertype": "new|registered",
     "connectionaddress": {
@@ -14,13 +14,18 @@
     "contactnumber":"9500689870"
   },
   "orderdetails": { 
-    "orderid": "O/2345",
+    "orderid": "1234567",
     "dateofbooking": "18-aug-2015",
     "duedate": "25-aug-2015",
     "services": [ {
       "servicecode": "ves1523",
       "servicename": "pip",
     }
+    "products":[{
+      "productcode": "VZ1234",
+      "productname": "Set Top Box",
+      "mdn": "7890222200"
+    }]
     ]
   }
 }
