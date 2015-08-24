@@ -37,6 +37,7 @@
     ],
   },
   "contractdetails":{
+    "contractid":"2345678"
     "modeltype":"transactional|rtb",
     "classofservice":"platinum|gold|silver|bronze|normal",
     "fromdate": "18-aug-2015",
