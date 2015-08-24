@@ -20,7 +20,7 @@
     "services": [ {
       "servicecode": "ves1523",
       "servicename": "pip",
-    },
+    }],
     "products":[{
       "productcode": "VZ1234",
       "productname": "Set Top Box",
