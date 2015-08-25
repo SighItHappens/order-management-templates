@@ -9,6 +9,7 @@
       "zipcode": 560102,
       "city": "bangalore",
       "state": "karnataka",
+      "stateid": 20,
       "country": "india"
     },
     "contactnumber":9500689870
@@ -20,6 +21,7 @@
     "services": [ {
       "servicecode": "ves1523",
       "servicename": "pip",
+      "quantity": 20
     }],
     "products":[{
       "productcode": "VZ1234",
