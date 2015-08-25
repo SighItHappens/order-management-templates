@@ -21,12 +21,12 @@
     "services": [ {
       "servicecode": "ves1523",
       "servicename": "pip",
+      "mdn": 7890222200,
       "quantity": 20
     }],
     "products":[{
       "productcode": "VZ1234",
-      "productname": "Set Top Box",
-      "mdn": 7890222200
+      "productname": "Set Top Box"
     }]
   }
 }
