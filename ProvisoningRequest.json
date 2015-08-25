@@ -21,7 +21,7 @@
     "services": [ {
       "servicecode": "ves1523",
       "servicename": "pip",
-      "mdn": 7890222200,
+      "mdn": [7890222200,7830444444],
       "quantity": 20
     }],
     "products":[{
