@@ -1,7 +1,7 @@
 {
   "lineofbusiness": "ves|vzw|cmb",
   "customerdetails": {
-    "customerid": "1234567",
+    "customerid": 1234567,
     "customername": "Suresh Siddharth",
     "customertype": "new|registered",
     "connectionaddress": {
@@ -11,10 +11,10 @@
       "state": "karnataka",
       "country": "india"
     },
-    "contactnumber":"9500689870"
+    "contactnumber":9500689870
   },
   "orderdetails": { 
-    "orderid": "1234567",
+    "orderid": 1234567,
     "dateofbooking": "18-aug-2015",
     "duedate": "25-aug-2015",
     "services": [ {
@@ -24,7 +24,7 @@
     "products":[{
       "productcode": "VZ1234",
       "productname": "Set Top Box",
-      "mdn": "7890222200"
+      "mdn": 7890222200
     }]
   }
 }
