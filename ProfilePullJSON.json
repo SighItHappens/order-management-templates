@@ -1,7 +1,7 @@
 {
     "lineofbusiness": "ves|vzw|cmb",
     "customerdetails": {
-        "customerid": "VZ/1234",
+        "customerid": "1234567",
         "fname": "suresh",
         "lname": "siddharth",
         "customerstatus": "active|suspended|disconnected",
@@ -29,7 +29,7 @@
     "existingsnp": {
         "services": [
             {
-                "servicecode": "ves1523",
+                "servicecode": "v1523",
                 "servicename": "pip",
                 "serviceid": 3456789,
                 "mdn": 9900022222,
@@ -42,7 +42,7 @@
         ],
         "products": [
             {
-                "productcode": "ves123",
+                "productcode": "v1234",
                 "productname": "instrument",
                 "productid": 123465789
             }
@@ -50,13 +50,13 @@
     },
     "orderhistory": [
         {
-            "orderid": "O/6728",
+            "orderid": "56728",
             "dateoforder": "30-JUN-2014",
             "duedate": "10-JUL-2014",
             "orderstatus": "new|out provision|in provision|completed|cancelled",
             "services": [
                 {
-                    "servicecode": "ves1523",
+                    "servicecode": "v1523",
                     "servicename": "pip",
                     "serviceid": 1332,
                     "quantity": {
@@ -67,7 +67,7 @@
             ],
             "products": [
                 {
-                    "productcode": "ves123",
+                    "productcode": "1237",
                     "productname": "instrument",
                     "productid": 1237
                 }
@@ -76,7 +76,7 @@
     ],
     "contractdetails": [
         {
-            "contractid": "C/2345",
+            "contractid": "112345",
             "modeltype": "transactional|rtb",
             "classofservice": "platinum|gold|silver|bronze|normal",
             "fromdate": "18-aug-2015",
