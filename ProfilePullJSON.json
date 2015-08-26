@@ -11,6 +11,7 @@
             "zipcode": 560102,
             "city": "bangalore",
             "state": "karnataka",
+            "stateid": 20,
             "country": "india"
         },
         "billingaddress": {
@@ -18,6 +19,7 @@
             "zipcode": 560102,
             "city": "bangalore",
             "state": "karnataka",
+            "stateid": 20,
             "country": "india"
         },
         "email": "suresh.siddharth@gmail.com",
@@ -31,17 +33,17 @@
                 "servicename": "pip",
                 "serviceid": 3456789,
                 "servicedate": "14-APR-2000"
+                "quantity": {
+                    "max": 100,
+                    "current": 50
+                }
             }
         ],
         "products": [
             {
                 "productcode": "ves123",
                 "productname": "instrument",
-                "productid": 123465789,
-                "quantity": {
-                    "max": 100,
-                    "current": 50
-                }
+                "productid": 123465789
             }
         ]
     },
@@ -55,17 +57,18 @@
                 {
                     "servicecode": "ves1523",
                     "servicename": "pip"
+                    "serviceid": 1332435,
+                    "quantity": {
+                        "max": 100,
+                        "current": 50
+                    }
                 }
             ],
             "products": [
                 {
                     "productcode": "ves123",
                     "productname": "instrument",
-                    "productid": 123465789,
-                    "quantity": {
-                        "max": 100,
-                        "current": 50
-                    }
+                    "productid": 123784659
                 }
             ]
         }
