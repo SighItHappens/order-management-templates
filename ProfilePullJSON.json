@@ -4,7 +4,7 @@
         "customerid": "VZ/1234",
         "fname": "suresh",
         "lname": "siddharth",
-        "customerstatus": "active|suspended|disconnected|delinquent",
+        "customerstatus": "active|suspended|disconnected",
         "billstartdate": "12-APR-2015",
         "connectionaddress": {
             "streetname": "10, mg road",
@@ -52,12 +52,12 @@
             "orderid": "O/6728",
             "dateoforder": "30-JUN-2014",
             "duedate": "10-JUL-2014",
-            "orderstatus": "new|outProvisioning|inProvisioning|complete|cancelled",
+            "orderstatus": "new|out provision|in provision|completed|cancelled",
             "services": [
                 {
                     "servicecode": "ves1523",
-                    "servicename": "pip"
-                    "serviceid": 1332435,
+                    "servicename": "pip",
+                    "serviceid": 1332,
                     "quantity": {
                         "max": 100,
                         "current": 50
@@ -68,7 +68,7 @@
                 {
                     "productcode": "ves123",
                     "productname": "instrument",
-                    "productid": 123784659
+                    "productid": 1237
                 }
             ]
         }
@@ -80,6 +80,8 @@
             "classofservice": "platinum|gold|silver|bronze|normal",
             "fromdate": "18-aug-2015",
             "todate": "18-aug-2016",
+            "current": 40,
+            "max": 100,
             "discountpercentage": 10
         }
     ]
