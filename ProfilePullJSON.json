@@ -1,7 +1,7 @@
 {
     "lineofbusiness": "ves|vzw|cmb",
     "customerdetails": {
-        "customerid": "1234567",
+        "customerid": 1234567,
         "fname": "suresh",
         "lname": "siddharth",
         "customerstatus": "active|suspended|disconnected",
