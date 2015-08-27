@@ -39,7 +39,7 @@
             }
         ]
     },
-    "contractdetails": {
+    "contractdetails": [{
         "contractid": "2345678",
         "modeltype": "transactional|rtb",
         "classofservice": "platinum|gold|silver|bronze|normal",
@@ -47,5 +47,5 @@
         "todate": "18-aug-2016",
         "discountpercentage": 10,
         "change": 10
-    }
+    }]
 }
