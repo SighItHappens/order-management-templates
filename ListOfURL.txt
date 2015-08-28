@@ -1,8 +1,8 @@
-(GET) Profile Pull by Customer ID: http://192.168.1.27:8080/OrderManagement/rest/om/profilePull/{id}
-(GET) Profile Pull by Email: http://192.168.1.27:8080/OrderManagement/rest/om/profilePull/email/{email}
-(GET) Account Pull for Billing: http://192.168.1.27:8080/OrderManagement/rest/om/billingAccountPull?billingDate=23-JAN-2001&portfolio=cmb
-(GET) Setting Connection Status: http://192.168.1.27:8080/OrderManagement/rest/om/financeConnectionStatus/{account_no}&{status}
-(GET) Cancelling Order by ID: http://192.168.1.27:8080/OrderManagement/rest/om/cancelOrder/{orderID}
-(GET) Changing Due Date:  http://192.168.1.27:8080/OrderManagement/rest/om/changeDueDate/{orderID}&{newDate}
-(POST) On Completing Provision: http://192.168.1.27:8080/OrderManagement/rest/om/provisioningComplete
-(POST) Submit Order: http://192.168.1.27:8080/OrderManagement/rest/om/submitorder
+(GET) Profile Pull by Customer ID: http://192.168.1.19:8080/OrderManagement/rest/om/profilePull/{id}
+(GET) Profile Pull by Email: http://192.168.1.19:8080/OrderManagement/rest/om/profilePull/email/{email}
+(GET) Account Pull for Billing: http://192.168.1.19:8080/OrderManagement/rest/om/billingAccountPull?billingDate=23-JAN-2001&portfolio=cmb
+(GET) Setting Connection Status: http://192.168.1.19:8080/OrderManagement/rest/om/financeConnectionStatus/{account_no}&{status}
+(GET) Cancelling Order by ID: http://192.168.1.19:8080/OrderManagement/rest/om/cancelOrder/{orderID}
+(GET) Changing Due Date:  http://192.168.1.19:8080/OrderManagement/rest/om/changeDueDate/{orderID}&{newDate}
+(POST) On Completing Provision: http://192.168.1.19:8080/OrderManagement/rest/om/provisioningComplete
+(POST) Submit Order: http://192.168.1.19:8080/OrderManagement/rest/om/submitorder
